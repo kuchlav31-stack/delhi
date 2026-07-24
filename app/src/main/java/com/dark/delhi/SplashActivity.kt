@@ -43,7 +43,7 @@ fun DilliDatingSplashScreen(navController: NavController) {
         )
         alpha.animateTo(1f, tween(800))
 
-        delay(2000) // 2 Seconds hold time
+        delay(500) // 2 Seconds hold time
 
         // Firebase Auth Check
         val currentUser = FirebaseAuth.getInstance().currentUser

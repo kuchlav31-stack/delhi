@@ -20,6 +20,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="Dill-E"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.Delhi"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>

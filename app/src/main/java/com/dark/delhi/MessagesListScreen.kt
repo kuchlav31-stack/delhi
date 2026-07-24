@@ -21,6 +21,10 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import coil.compose.AsyncImage
+import com.dark.delhi.VibeTheme.CardBg
+import com.dark.delhi.VibeTheme.DarkBg
+import com.dark.delhi.VibeTheme.NeonPink
+import com.dark.delhi.VibeTheme.NeonPurple
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.Query
